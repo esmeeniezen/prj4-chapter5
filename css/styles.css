@@ -1,0 +1,35 @@
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+.my-class { 
+color: red; 
+Background-color: lightblue;
+border: 1px solid blue;
+text-align: center;
+padding: 0.5em;
+}
+
+.my-container {
+font-family: 'Open Sans Condensed', sans-serif;
+color:yellow;
+Background-color: lightpink;
+border: 1px solid blue;
+text-align: left;
+margin-right: 20px;
+margin-left: 20px;
+padding: 0.5em;
+}
+
+#my-id {
+background-image: url(../images/background.png)
+}
+
+
+h2 {
+color:blue;
+}
+p {
+color: white;
+}
+h3 {
+color:green;
+}
