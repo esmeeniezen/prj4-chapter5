@@ -1,5 +1,5 @@
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
-
+/* this will not work - you are using a * ?? you need to add the attributes to he body tag */
 .my-class { 
 color: red; 
 Background-color: lightblue;
